@@ -1,0 +1,10 @@
+
+git clone https://github.com/Aswinkrishna75/sample.git
+
+git and github
+
+alternatives : aws,bitbuckets,gitlab
+
+git add . >>> add the file to the staging alternatives(file is being tracked by git)
+
+git commit -m "message" 
